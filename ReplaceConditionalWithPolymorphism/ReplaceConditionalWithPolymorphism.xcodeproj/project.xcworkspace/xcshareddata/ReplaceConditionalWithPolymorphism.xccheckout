@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09A1A24E-43E9-4FCF-BB96-330E8DFF1B99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D744EECD998B4BB3709D1A24855027BA70884E47</key>
+		<string>https://github.com/chronicqazxc/Refactoring</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReplaceConditionalWithPolymorphism/ReplaceConditionalWithPolymorphism.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D744EECD998B4BB3709D1A24855027BA70884E47</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chronicqazxc/Refactoring</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D744EECD998B4BB3709D1A24855027BA70884E47</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D744EECD998B4BB3709D1A24855027BA70884E47</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Refactoring</string>
+		</dict>
+	</array>
+</dict>
+</plist>
